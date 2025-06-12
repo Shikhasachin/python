@@ -1,1 +1,1 @@
-pythonnnnnn
+print("pythonnnnnn and  java")
